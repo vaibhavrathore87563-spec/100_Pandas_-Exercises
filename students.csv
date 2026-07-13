@@ -1,10 +1,10 @@
 Name,Age,City,Marks
 sita,20,,85
 Riya,21,indore,56
-preet,19,raipur,
+preet,19,raipur,0
 ,20,ujjain,67
 Neha,21,Indore,92
 Arjun,22,Bhopal,81
 Sneha,20,Gwalior,87
 Karan,23,Ujjain,79
-Pooja,21,Jabalpur,,95
+Pooja,21,Jabalpur,95
