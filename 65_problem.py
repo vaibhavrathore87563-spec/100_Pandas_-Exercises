@@ -2,4 +2,4 @@
 import pandas as pd
 var = pd.read_csv("students.csv")
 print(var)
-print(var.dropna(sebset =["column_Name"]))
+print(var.dropna(subset=["Name"]))
